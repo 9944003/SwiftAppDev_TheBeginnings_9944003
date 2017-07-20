@@ -11,3 +11,6 @@ Xcode 8. Download it from the Mac App Store, if you need it.
 Project files for the course which you can download using the link below.”
 
 Excerpt From: Apple Education. “App Development with Swift.” Apple Inc. - Education, 2017. iBooks. https://itun.es/nz/SoKQib.l
+
+Using Xcode playground 4/4 answers correct
+-----------------------------------------
