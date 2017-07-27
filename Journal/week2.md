@@ -17,5 +17,25 @@ I could not get the code right as time constraints after reading chapter and fus
 
 # Unit test 7/7 for the constants, variables, type constructsx, type inference
 
-----------------------------------------------
+------------------------------------------- 
+
+# Week 3 July 27 2017
+
+My previous knowledge of C# hass made the learning of variables, constants, operators, if else statements, switch statements, are all very familiar to me. 
+
+The Xcode Lesson 1.5 is very interesting to me how to sue and get the most out of Xcode.  Debugging, running app, simulator all familiar concepts to me. 
+
+In class we learned about JavaScript change to using var and let so I had a moment of confusion asking teacher if let was a constant even though he stated it wasnt and it did not go with the context.  
+
+I created a pages document, blank at this stage so i can add any documentation that interests me from the labs.  
+
+Interface builder basics Story boardds is where I am up to page 79.
+
+Two weeks have to have assessment report done and jquery worksheet. Which will equal Unit 5 of this iBook.
+
+Did not have class yesterday sop took me 4 hours thus far this week (2hours working through ibook at home no Xcode available, just reading the book and taking notes, writing steps to follow)
+
+----------------------------------------- (to create a solid line)
+
+
 
