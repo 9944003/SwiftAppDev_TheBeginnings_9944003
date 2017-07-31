@@ -38,4 +38,15 @@ Did not have class yesterday sop took me 4 hours thus far this week (2hours work
 ----------------------------------------- (to create a solid line)
 
 
+# Unit 2 Introd=uction to UIKit
 
+Decided to read quiclkly over headings, subheadings and any code definitions I wasn't familiar with to speed up the process of learning to build the apps.  Came in after class Monday
+it has taken me 1 hour and half to get through to the end of trying to build app with button object and action link.  It didnt work.  
+
+Met a apple app developer Caleb who helped me with the basic navigation around apple OS which is definitely slowing my proggress, and would have for a lot longer if he wasnt here to ask for help.
+
+Fustrated
+
+Current knowledge was an extreme advantage as I have an iunderstanding of 80% of the terminology / syntax / programmiing ideas
+
+-------------------------------------------------------------- (to create a solid line)
